@@ -9,12 +9,12 @@ This repository contains the code and resources for an emotion detection model u
 - [Directory Structure](#directory-structure)
 - [Installation](#installation)
 - [Usage](#usage)
+- [dataset](#dataset)
   - [Training the Model](#training-the-model)
   - [Evaluating the Model](#evaluating-the-model)
 - [Model Details](#model-details)
 - [Requirements](#requirements)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
@@ -64,6 +64,12 @@ This script will:
 - Train the CNN model for 50 epochs.
 - Save the trained model as `emotion_model.json` and its weights as `emotion_model.h5` in the `model/` directory.
 
+### dataset
+make sure to download dataset FER-2013 from kaggle.
+Link -
+```bash
+https://www.kaggle.com/datasets/msambare/fer2013?resource=download
+```
 ### Evaluating the Model
 
 To evaluate the trained model, run the `EvaluateEmotionDetector.py` script:
@@ -109,6 +115,3 @@ For the full list of dependencies, see [requirements.txt](requirements.txt).
 
 Contributions are welcome! Please open an issue or submit a pull request for any improvements, bug fixes, or new features.
 
-## License
-
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for more details.
