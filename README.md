@@ -66,8 +66,7 @@ This script will:
 
 ### dataset
 make sure to download dataset FER-2013 from kaggle
-[download dataset FER-2013 from kaggle]
-(https://www.kaggle.com/datasets/msambare/fer2013?resource=download)!
+Link-(https://www.kaggle.com/datasets/msambare/fer2013?resource=download)!
 
 ### Evaluating the Model
 
