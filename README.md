@@ -14,7 +14,7 @@ This repository contains the code and resources for an emotion detection model u
 - [Model Details](#model-details)
 - [Requirements](#requirements)
 - [Contributing](#contributing)
-
+- [License](#license)
 
 ## Overview
 
@@ -109,4 +109,6 @@ For the full list of dependencies, see [requirements.txt](requirements.txt).
 
 Contributions are welcome! Please open an issue or submit a pull request for any improvements, bug fixes, or new features.
 
+## License
 
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for more details.
