@@ -65,11 +65,10 @@ This script will:
 - Save the trained model as `emotion_model.json` and its weights as `emotion_model.h5` in the `model/` directory.
 
 ### dataset
-make sure to download dataset FER-2013 from kaggle.
-Link -
-```bash
-https://www.kaggle.com/datasets/msambare/fer2013?resource=download
-```
+make sure to download dataset FER-2013 from kaggle
+[download dataset FER-2013 from kaggle]
+(https://www.kaggle.com/datasets/msambare/fer2013?resource=download)!
+
 ### Evaluating the Model
 
 To evaluate the trained model, run the `EvaluateEmotionDetector.py` script:
